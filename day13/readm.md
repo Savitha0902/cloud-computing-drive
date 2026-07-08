@@ -72,6 +72,8 @@ On Day 13, I prepared the DevOps environment required to deploy a three-tier app
 ---
 
 ## 📸 Screenshots
+### IAM User
+![IAM User](screenshots/iam-user.png)
 
 ### Jenkins Dashboard
 
